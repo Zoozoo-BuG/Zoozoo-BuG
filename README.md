@@ -1,6 +1,3 @@
-#<h1 align="center">Hi 👋, I'm Swaraj Thool</h1>
-#<h3 align="center"Penetration Tester || Cybersecurity Analyst</h3>
-
 ## Hi 👋, I'm Swaraj Thool
 
 <!--
