@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-Hi, I'm zoozoo, a Penetration Tester from India, who love to Break 🌐Web Application (Offensivly). I'm Current working with HexaDefend as a penertation tester. As well as I have also worked on some comprehensive  some comprohensive 💻 projects based on Machine Learning and Deep Learning.
+Hi, I'm zoozoo, a Penetration Tester from India, who love to Break 🌐Web Application (Offensively). I'm Current working with HexaDefend as a penertation tester. As well as I have also worked on some comprehensive  some comprohensive 💻 projects based on Machine Learning and Deep Learning.
 
 - 🌱 I’m currently learning OSCP
 - 💬 Ask me about: Cybersecurity related Stuff ....
