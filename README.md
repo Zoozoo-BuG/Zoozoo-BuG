@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Swaraj Thool</h1>
-<h3 align="center"Penetration Tester || Cybersecurity Analyst</h3>
+#<h1 align="center">Hi 👋, I'm Swaraj Thool</h1>
+#<h3 align="center"Penetration Tester || Cybersecurity Analyst</h3>
 
-
+## Hi 👋, I'm Swaraj Thool
 
 <!--
 **Zoozoo-BuG/Zoozoo-BuG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
