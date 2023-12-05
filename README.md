@@ -1,4 +1,4 @@
-# Hi there, 👋 Swaraj this side............
+# Hi there, 👋 I am Swaraj Thool
 
 <!--
 **Zoozoo-BuG/Zoozoo-BuG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
