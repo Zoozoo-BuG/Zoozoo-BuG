@@ -14,7 +14,7 @@ Hi, I'm zoozoo, a Penetration Tester from India, who love to Break 🌐Web Appli
 - 📫 How to reach me: Dm me at https://www.linkedin.com/in/swaraj-thool/  
 - 😄 Pronouns: He/him
 - 🌐 Location: India
-- ⚡ Fun fact: I love to play cricket and Cooking as well. 
+- ⚡ Fun fact: I love to play cricket and love to cook new dishes as well. 
 
 
 
